@@ -28,7 +28,7 @@ else:
     return jsonify({'로그인 실패'})
 ```
 
-2. Jinja2 템플릿을 이용해 SSR 하기
+## Jinja2 템플릿을 이용해 SSR 하기
 - SSR: Server Side Rendering
 - 서버
 ```
