@@ -1,4 +1,4 @@
-1. Flask에서 로그인 및 회원가입 기능 구현하기
+## Flask에서 로그인 및 회원가입 기능 구현하기
 - JWT(Json Web Token): JSON객체를 사용해 정보를 안정성 있게 전달
 - python 에서 jwt 모듈 설치
 - 클라이언트에서 id/pw값을 받아 온 것을 가정
